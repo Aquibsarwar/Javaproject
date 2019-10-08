@@ -8,7 +8,6 @@ public class Person {
 	
 	public Person(Name personName){
 		this.personName = personName;
-		
 	}
 	
 	public Person() {
